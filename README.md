@@ -26,4 +26,4 @@ The purpose of this project was to perform exploratory data analysis and create 
 
 ## Summary
 
-This is a versatile script that can be used to calculate the results of any election where data is stored in a CSV file. To make this script run analysis for any election, a few simple modifications need to be made. The correct file name and path needs to be coded into Line 9 of the script. The script can also be expanded to show the county with the lowest voter turnout. This could be useful if running analysis on elections with dozens of counties involved.
+The cheating scandal at Thomas High School created some small changes in the performance metrics for the school. First, the overall percentage of students passing in the district increased after grades were fixed. Second, the average math score for the district decreased. Third, the percentage of students at Thomas High School passing math, reading, or both slightly decreased after the change in scores. Finally, the data for 9th graders at Thomas High School consists entirely of NaNs now.
