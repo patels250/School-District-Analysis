@@ -8,7 +8,8 @@ The purpose of this project was to perform exploratory data analysis and create 
 
 - How is the district summary affected by the change in scores?
   - The district summary is only very slightly affected by the change in scores. As seen below, the percentages of students passing math, reading, and both marginally increased. Similarly, the average math score marginally decreased.
-  - ![Before_District.PNG](Resources/Before_District.PNG)
+  - Before Changes: ![Before_District.PNG](Resources/Before_District.PNG)
+  - After Changes: ![After_District.PNG](Resources/After_District.PNG)
 - How is the school summary affected by the change in scores?
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - How does replacing the ninth-grade scores affect the following:
